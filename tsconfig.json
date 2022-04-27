@@ -23,7 +23,7 @@
   "include": [
     "src",
     "test"
-  ],
+, "server.js"  ],
   "atom": {
     "rewriteTsconfig": false
   }
